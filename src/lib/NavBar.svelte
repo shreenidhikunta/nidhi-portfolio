@@ -40,7 +40,7 @@
 <nav class = "navbar">
     <h1>Nidhi Kunta</h1>
     <ul>
-        <li><a href = "#hobbies">Hobbies</a></li>
-        <li><a href = "#favorite">Favorite Things</a></li>
+        <li><a href = "#hobbies">Skills</a></li>
+        <li><a href = "#favorite">Experiences</a></li>
     </ul>
 </nav>

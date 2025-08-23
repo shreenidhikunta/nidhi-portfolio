@@ -4,6 +4,7 @@
   export let image;  // Image URL prop
   export let title;  // Title prop
   export let description;  // Description prop
+  export let link;
 </script>
 
 <style>
@@ -45,5 +46,6 @@
   <div class="card-content">
     <h2 class="card-title">{title}</h2>
     <p class="card-description">{description}</p>
+    <p class="card-link">{link}</p>
   </div>
 </div>
